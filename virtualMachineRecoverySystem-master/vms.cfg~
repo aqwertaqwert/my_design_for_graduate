@@ -1,0 +1,21 @@
+
+
+<vmlist>
+
+
+<vm name="vm06">
+		<profile>Linuxliux6-64bitx64</profile>
+		<username>root</username>
+		<password>123456</password>
+		<ip>10.108.166.236</ip>
+		<process>
+		<item name="csdtest" path="/csd/csdtest.sh" log="" >restartP</item>
+		<item name="jinfang" path="/soft/b.sh" log="" >restartP</item>
+		</process>
+	</vm>
+	
+</vmlist>
+
+
+
+

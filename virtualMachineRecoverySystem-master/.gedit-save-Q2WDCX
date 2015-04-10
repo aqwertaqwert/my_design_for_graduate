@@ -1,0 +1,13 @@
+<vmlist>
+	
+	<vm name="vm02">
+		<profile>Linuxlinux6-32bitx86</profile>
+		<username>root</username>
+		<password>123456</password>
+		<ip>10.108.94.199</ip>
+		<process></process>
+	</vm>
+	
+	
+</vmlist>
+
