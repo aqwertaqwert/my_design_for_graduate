@@ -44,15 +44,32 @@ import volatility.addrspace as addrspace
 import volatility.commands as commands
 import volatility.scan as scan
 
+
 class VmInspection(object):
 		
-	def IsSystemCallHooked(self, vmname, profile):
+	def IsSystemCallHooked(self, vmname, profile,sys_call_table_MD5):
 	   self.profile = profile
+	   print sys_call_table_MD5[0]
+	   #ptint "sadsafsaaaaaaaaaaaaaaaa"
 	   data = self._CheckSystemCall( vmname)
+	   #print data
+	   table = ""
 	   for ( table_name, i, call_addr, hooked) in data:
-		if hooked != 0:
-			return True
-	   return False
+		 table+=(str(call_addr))
+	   #print table
+	   tables = hashlib.md5(table).hexdigest().upper()
+	   print tables
+	   if(sys_call_table_MD5[0] =="NULL"):
+	         sys_call_table_MD5[0] = str(tables)
+		 print "xxxxxxxxxx"
+		 return False
+	   elif(sys_call_table_MD5[0] != str(tables)):
+		   print "yyyyyy"
+		   return True
+	   else:
+		   print "zzzzzzzzz"
+		   return False
+  
 
 	def _CheckSystemCall(self, vmname):
 	   return self._ExecuteCommand(vmname, "linux_check_syscall")

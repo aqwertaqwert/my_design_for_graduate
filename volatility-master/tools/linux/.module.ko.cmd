@@ -1,0 +1,1 @@
+cmd_/root/Volatility/tools/linux/module.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.5.0-17-generic/scripts/module-common.lds --build-id  -o /root/Volatility/tools/linux/module.ko /root/Volatility/tools/linux/module.o /root/Volatility/tools/linux/module.mod.o

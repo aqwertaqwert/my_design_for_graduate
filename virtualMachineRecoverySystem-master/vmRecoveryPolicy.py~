@@ -66,9 +66,13 @@ class VmRecoveryPolicy(object):
 				if status.VmState == kvm.SHUTOFF :
 					self._StartVM(self.vmStatusHistoryDict[vm], cmd)	
 				elif(status.SystemCallHooked or status.RootKitScanned):
-					self._RestoreSnapShot(self.vmStatusHistoryDict[vm],cmd)
+					#self._RestoreSnapShot(self.vmStatusHistoryDict[vm],cmd)
+					print "cichuyinghuifu"
 
 				elif(len(status.HiddenProcesses) !=0):
+					self._RestoreSnapShot(self.vmStatusHistoryDict[vm], cmd)
+				
+				elif(len(status.ModifiedProcess) !=0):
 					self._RestoreSnapShot(self.vmStatusHistoryDict[vm], cmd)
 
 				elif(len(status.ZombieProcesses) !=0 or len(status.MissingProcesses) !=0):

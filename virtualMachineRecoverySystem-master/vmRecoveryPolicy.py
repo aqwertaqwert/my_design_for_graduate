@@ -67,6 +67,7 @@ class VmRecoveryPolicy(object):
 					self._StartVM(self.vmStatusHistoryDict[vm], cmd)	
 				elif(status.SystemCallHooked or status.RootKitScanned):
 					self._RestoreSnapShot(self.vmStatusHistoryDict[vm],cmd)
+					#print "cichuyinghuifu"
 
 				elif(len(status.HiddenProcesses) !=0):
 					self._RestoreSnapShot(self.vmStatusHistoryDict[vm], cmd)

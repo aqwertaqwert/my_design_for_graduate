@@ -26,6 +26,7 @@ class VmMonitor(object):
 	kvm_host = kvm.KVM(unix.Local())
 	AllList=[]
 	MonitPMD5 = []
+	#sys_call_table_MD5 = "NULL"
 	#self.vmProcessMap = {}
 
 	def __init__(self, vmcfgs):
@@ -65,7 +66,11 @@ class VmMonitor(object):
 				monitPlistcode = AllList[1]
 				ModifiedProcessList = self.CheckModifiedProcesses(vmname,monitPlistcode)
 				status.ModifiedProcess = ModifiedProcessList;
-				status.IsSystemCallHooked = self.CheckVMSystemCall(vmname )
+
+				status.isSystemCallHooked = self.CheckVMSystemCall(vmname)
+				print status.isSystemCallHooked
+				print "xxxsssfghh"
+
 				status.ZombieProcesses = self.CheckZombieProcesses(vmname)
 			except exceptions.AddrSpaceError, e:
 				logging.exception(vmcfg.GetVmName()+" profile is not valid")
@@ -78,7 +83,7 @@ class VmMonitor(object):
 		return vmstatus
 	def CheckVMSystemCall(self, vmname):
 		logging.info("\t Checking System call")		
-		return self.vmInspection.IsSystemCallHooked(vmname, self.vmcfgs[vmname].Profile)
+		return self.vmInspection.IsSystemCallHooked(vmname, self.vmcfgs[vmname].Profile,self.vmcfgs[vmname].sys_call_table_MD5)
 
 	def CheckZombieProcesses(self, vmname):
 	#	self.vmInspection.DumpProcess(vmname, "sshd", self.vmcfgs[vmname].Profile)

@@ -77,7 +77,7 @@ class VmCheckStatus(object):
 		msg = "Vm state:\t"+self.VmState+"\n" ;
 		if not self.ProfileValid:
 			msg=msg+"Profile is not valid\n"
-		msg=msg+"System call hooked: %s \n"%(str(self.SystemCallHooked)) 
+		msg=msg+"System call hooked: %s \n"%(str(self.isSystemCallHooked)) 
 		msg=msg+"RootKitScanned: %s \n"%(str(self.RootKitScanned))
 		msg=msg+"RootKitScanned: %s \n"%(str(self.RootKitScanned))
 		for z in self.ZombieProcesses :

@@ -5,13 +5,14 @@ class VmMonitorCfg(object):
 	processMap = {}
  	vmname = ""
 	profile = ""
-	def __init__(self, vmname, processMap, profile, user, password, ip):
+	def __init__(self, vmname, processMap, profile, user, password, ip, sys_call_table_MD5):
 		self.vmname = vmname
 		self.processMap = processMap
 		self.profile = profile
 		self.user = user
 		self.password = password
 		self.ip = ip
+		self.sys_call_table_MD5 = sys_call_table_MD5
 
 	def GetMonitorProcessMap(self):
 		return self.processMap;
@@ -55,8 +56,11 @@ class VmMonitorCfg(object):
 			vname = vm.attributes['name'].value
 			print " "+vname+" "+profile	
 
-			cfg = cls(vname, pmap, profile, user, password, ip)
+			sys_call_table_MD5 = ["NULL"]
+
+			cfg = cls(vname, pmap, profile, user, password, ip, sys_call_table_MD5)
 			vmCheckCfgList.append(cfg)	
+
 
 		return vmCheckCfgList
 

@@ -1,11 +1,10 @@
-2015-04-08 08:54:36,141 - MainThread - [INFO ] Starting program
-2015-04-08 08:54:36,142 - MainThread - [INFO ] Checking VM: vm06
-2015-04-08 08:54:36,215 - MainThread - [INFO ] Caculate the vm data from vm06
-2015-04-08 08:54:36,587 - Thread-1 - [INFO ] Http service started
-2015-04-08 08:55:12,259 - MainThread - [INFO ] 	 Checking VM missing Processes
-2015-04-08 08:55:12,260 - MainThread - [INFO ] 	 Checking VM Modified Processes
-2015-04-08 08:55:12,260 - MainThread - [INFO ] 	 Checking System call
-2015-04-08 08:55:12,702 - MainThread - [INFO ] Vm checked status:vm06
+2015-05-27 10:51:36,087 - MainThread - [INFO ] Starting program
+2015-05-27 10:51:36,091 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 10:51:36,159 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 10:52:04,546 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 10:52:04,547 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 10:52:04,547 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 10:52:05,169 - MainThread - [INFO ] Vm checked status:vm06
 Vm state:	running
 System call hooked: False 
 RootKitScanned: False 
@@ -15,19 +14,19 @@ MissingProcesses:
 HiddenProcesses:	
 ModifiedProcess:	
 
-2015-04-08 08:55:12,702 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+2015-05-27 10:52:05,170 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
 
-2015-04-08 08:55:12,702 - MainThread - [INFO ] Vm cmd:vm06
+2015-05-27 10:52:05,170 - MainThread - [INFO ] Vm cmd:vm06
 No actions need
 
-2015-04-08 08:55:12,702 - MainThread - [INFO ] 	No actions need
-2015-04-08 08:55:12,702 - MainThread - [INFO ] sleep 160
-2015-04-08 08:57:52,802 - MainThread - [INFO ] Checking VM: vm06
-2015-04-08 08:57:52,873 - MainThread - [INFO ] Caculate the vm data from vm06
-2015-04-08 08:58:28,172 - MainThread - [INFO ] 	 Checking VM missing Processes
-2015-04-08 08:58:28,172 - MainThread - [INFO ] 	 Checking VM Modified Processes
-2015-04-08 08:58:28,172 - MainThread - [INFO ] 	 Checking System call
-2015-04-08 08:58:28,701 - MainThread - [INFO ] Vm checked status:vm06
+2015-05-27 10:52:05,170 - MainThread - [INFO ] 	No actions need
+2015-05-27 10:52:05,170 - MainThread - [INFO ] sleep 160
+2015-05-27 10:54:45,270 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 10:54:45,342 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 10:55:12,380 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 10:55:12,381 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 10:55:12,381 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 10:55:13,011 - MainThread - [INFO ] Vm checked status:vm06
 Vm state:	running
 System call hooked: False 
 RootKitScanned: False 
@@ -37,19 +36,19 @@ MissingProcesses:
 HiddenProcesses:	
 ModifiedProcess:	
 
-2015-04-08 08:58:28,702 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+2015-05-27 10:55:13,012 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
 
-2015-04-08 08:58:28,702 - MainThread - [INFO ] Vm cmd:vm06
+2015-05-27 10:55:13,012 - MainThread - [INFO ] Vm cmd:vm06
 No actions need
 
-2015-04-08 08:58:28,702 - MainThread - [INFO ] 	No actions need
-2015-04-08 08:58:28,703 - MainThread - [INFO ] sleep 160
-2015-04-08 09:01:08,802 - MainThread - [INFO ] Checking VM: vm06
-2015-04-08 09:01:08,971 - MainThread - [INFO ] Caculate the vm data from vm06
-2015-04-08 09:01:45,489 - MainThread - [INFO ] 	 Checking VM missing Processes
-2015-04-08 09:01:45,490 - MainThread - [INFO ] 	 Checking VM Modified Processes
-2015-04-08 09:01:45,490 - MainThread - [INFO ] 	 Checking System call
-2015-04-08 09:01:46,022 - MainThread - [INFO ] Vm checked status:vm06
+2015-05-27 10:55:13,012 - MainThread - [INFO ] 	No actions need
+2015-05-27 10:55:13,012 - MainThread - [INFO ] sleep 160
+2015-05-27 10:57:53,112 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 10:57:53,544 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 10:58:20,550 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 10:58:20,551 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 10:58:20,551 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 10:58:21,265 - MainThread - [INFO ] Vm checked status:vm06
 Vm state:	running
 System call hooked: False 
 RootKitScanned: False 
@@ -59,19 +58,19 @@ MissingProcesses:
 HiddenProcesses:	
 ModifiedProcess:	
 
-2015-04-08 09:01:46,022 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+2015-05-27 10:58:21,265 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
 
-2015-04-08 09:01:46,022 - MainThread - [INFO ] Vm cmd:vm06
+2015-05-27 10:58:21,266 - MainThread - [INFO ] Vm cmd:vm06
 No actions need
 
-2015-04-08 09:01:46,023 - MainThread - [INFO ] 	No actions need
-2015-04-08 09:01:46,023 - MainThread - [INFO ] sleep 160
-2015-04-08 09:04:26,119 - MainThread - [INFO ] Checking VM: vm06
-2015-04-08 09:04:26,210 - MainThread - [INFO ] Caculate the vm data from vm06
-2015-04-08 09:05:04,483 - MainThread - [INFO ] 	 Checking VM missing Processes
-2015-04-08 09:05:04,483 - MainThread - [INFO ] 	 Checking VM Modified Processes
-2015-04-08 09:05:04,483 - MainThread - [INFO ] 	 Checking System call
-2015-04-08 09:05:04,906 - MainThread - [INFO ] Vm checked status:vm06
+2015-05-27 10:58:21,266 - MainThread - [INFO ] 	No actions need
+2015-05-27 10:58:21,266 - MainThread - [INFO ] sleep 160
+2015-05-27 11:01:01,366 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 11:01:01,423 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 11:01:29,068 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 11:01:29,068 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 11:01:29,068 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 11:01:29,653 - MainThread - [INFO ] Vm checked status:vm06
 Vm state:	running
 System call hooked: False 
 RootKitScanned: False 
@@ -81,19 +80,19 @@ MissingProcesses:
 HiddenProcesses:	
 ModifiedProcess:	
 
-2015-04-08 09:05:04,907 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+2015-05-27 11:01:29,653 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
 
-2015-04-08 09:05:04,907 - MainThread - [INFO ] Vm cmd:vm06
+2015-05-27 11:01:29,654 - MainThread - [INFO ] Vm cmd:vm06
 No actions need
 
-2015-04-08 09:05:04,907 - MainThread - [INFO ] 	No actions need
-2015-04-08 09:05:04,907 - MainThread - [INFO ] sleep 160
-2015-04-08 09:07:45,007 - MainThread - [INFO ] Checking VM: vm06
-2015-04-08 09:07:45,081 - MainThread - [INFO ] Caculate the vm data from vm06
-2015-04-08 09:08:22,302 - MainThread - [INFO ] 	 Checking VM missing Processes
-2015-04-08 09:08:22,303 - MainThread - [INFO ] 	 Checking VM Modified Processes
-2015-04-08 09:08:22,303 - MainThread - [INFO ] 	 Checking System call
-2015-04-08 09:08:22,851 - MainThread - [INFO ] Vm checked status:vm06
+2015-05-27 11:01:29,654 - MainThread - [INFO ] 	No actions need
+2015-05-27 11:01:29,654 - MainThread - [INFO ] sleep 160
+2015-05-27 11:04:09,752 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 11:04:09,816 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 11:04:37,352 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 11:04:37,352 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 11:04:37,352 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 11:04:38,075 - MainThread - [INFO ] Vm checked status:vm06
 Vm state:	running
 System call hooked: False 
 RootKitScanned: False 
@@ -103,19 +102,19 @@ MissingProcesses:
 HiddenProcesses:	
 ModifiedProcess:	
 
-2015-04-08 09:08:22,851 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+2015-05-27 11:04:38,077 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
 
-2015-04-08 09:08:22,852 - MainThread - [INFO ] Vm cmd:vm06
+2015-05-27 11:04:38,077 - MainThread - [INFO ] Vm cmd:vm06
 No actions need
 
-2015-04-08 09:08:22,852 - MainThread - [INFO ] 	No actions need
-2015-04-08 09:08:22,852 - MainThread - [INFO ] sleep 160
-2015-04-08 09:11:02,952 - MainThread - [INFO ] Checking VM: vm06
-2015-04-08 09:11:03,065 - MainThread - [INFO ] Caculate the vm data from vm06
-2015-04-08 09:11:40,622 - MainThread - [INFO ] 	 Checking VM missing Processes
-2015-04-08 09:11:40,623 - MainThread - [INFO ] 	 Checking VM Modified Processes
-2015-04-08 09:11:40,623 - MainThread - [INFO ] 	 Checking System call
-2015-04-08 09:11:41,061 - MainThread - [INFO ] Vm checked status:vm06
+2015-05-27 11:04:38,077 - MainThread - [INFO ] 	No actions need
+2015-05-27 11:04:38,078 - MainThread - [INFO ] sleep 160
+2015-05-27 11:07:18,177 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 11:07:18,632 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 11:07:46,222 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 11:07:46,222 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 11:07:46,222 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 11:07:46,752 - MainThread - [INFO ] Vm checked status:vm06
 Vm state:	running
 System call hooked: False 
 RootKitScanned: False 
@@ -125,19 +124,19 @@ MissingProcesses:
 HiddenProcesses:	
 ModifiedProcess:	
 
-2015-04-08 09:11:41,061 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+2015-05-27 11:07:46,752 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
 
-2015-04-08 09:11:41,061 - MainThread - [INFO ] Vm cmd:vm06
+2015-05-27 11:07:46,752 - MainThread - [INFO ] Vm cmd:vm06
 No actions need
 
-2015-04-08 09:11:41,062 - MainThread - [INFO ] 	No actions need
-2015-04-08 09:11:41,062 - MainThread - [INFO ] sleep 160
-2015-04-08 09:14:21,157 - MainThread - [INFO ] Checking VM: vm06
-2015-04-08 09:14:21,223 - MainThread - [INFO ] Caculate the vm data from vm06
-2015-04-08 09:14:58,961 - MainThread - [INFO ] 	 Checking VM missing Processes
-2015-04-08 09:14:58,961 - MainThread - [INFO ] 	 Checking VM Modified Processes
-2015-04-08 09:14:58,961 - MainThread - [INFO ] 	 Checking System call
-2015-04-08 09:14:59,504 - MainThread - [INFO ] Vm checked status:vm06
+2015-05-27 11:07:46,752 - MainThread - [INFO ] 	No actions need
+2015-05-27 11:07:46,753 - MainThread - [INFO ] sleep 160
+2015-05-27 11:10:26,853 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 11:10:26,902 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 11:10:55,806 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 11:10:55,806 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 11:10:55,807 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 11:10:56,533 - MainThread - [INFO ] Vm checked status:vm06
 Vm state:	running
 System call hooked: False 
 RootKitScanned: False 
@@ -147,19 +146,19 @@ MissingProcesses:
 HiddenProcesses:	
 ModifiedProcess:	
 
-2015-04-08 09:14:59,504 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+2015-05-27 11:10:56,533 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
 
-2015-04-08 09:14:59,504 - MainThread - [INFO ] Vm cmd:vm06
+2015-05-27 11:10:56,534 - MainThread - [INFO ] Vm cmd:vm06
 No actions need
 
-2015-04-08 09:14:59,504 - MainThread - [INFO ] 	No actions need
-2015-04-08 09:14:59,504 - MainThread - [INFO ] sleep 160
-2015-04-08 09:17:39,595 - MainThread - [INFO ] Checking VM: vm06
-2015-04-08 09:17:39,665 - MainThread - [INFO ] Caculate the vm data from vm06
-2015-04-08 09:18:16,901 - MainThread - [INFO ] 	 Checking VM missing Processes
-2015-04-08 09:18:16,902 - MainThread - [INFO ] 	 Checking VM Modified Processes
-2015-04-08 09:18:16,902 - MainThread - [INFO ] 	 Checking System call
-2015-04-08 09:18:17,438 - MainThread - [INFO ] Vm checked status:vm06
+2015-05-27 11:10:56,534 - MainThread - [INFO ] 	No actions need
+2015-05-27 11:10:56,534 - MainThread - [INFO ] sleep 160
+2015-05-27 11:13:36,630 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 11:13:36,993 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 11:14:07,284 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 11:14:07,285 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 11:14:07,285 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 11:14:07,929 - MainThread - [INFO ] Vm checked status:vm06
 Vm state:	running
 System call hooked: False 
 RootKitScanned: False 
@@ -169,19 +168,45 @@ MissingProcesses:
 HiddenProcesses:	
 ModifiedProcess:	
 
-2015-04-08 09:18:17,439 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+2015-05-27 11:14:07,929 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
 
-2015-04-08 09:18:17,439 - MainThread - [INFO ] Vm cmd:vm06
+2015-05-27 11:14:07,929 - MainThread - [INFO ] Vm cmd:vm06
 No actions need
 
-2015-04-08 09:18:17,439 - MainThread - [INFO ] 	No actions need
-2015-04-08 09:18:17,439 - MainThread - [INFO ] sleep 160
-2015-04-08 09:20:57,539 - MainThread - [INFO ] Checking VM: vm06
-2015-04-08 09:20:57,614 - MainThread - [INFO ] Caculate the vm data from vm06
-2015-04-08 09:21:35,366 - MainThread - [INFO ] 	 Checking VM missing Processes
-2015-04-08 09:21:35,367 - MainThread - [INFO ] 	 Checking VM Modified Processes
-2015-04-08 09:21:35,367 - MainThread - [INFO ] 	 Checking System call
-2015-04-08 09:21:35,799 - MainThread - [INFO ] Vm checked status:vm06
+2015-05-27 11:14:07,930 - MainThread - [INFO ] 	No actions need
+2015-05-27 11:14:07,930 - MainThread - [INFO ] sleep 160
+2015-05-27 11:16:48,030 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 11:16:48,084 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 11:17:18,387 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 11:17:18,387 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 11:17:18,387 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 11:17:18,988 - MainThread - [INFO ] Vm checked status:vm06
+Vm state:	running
+System call hooked: True 
+RootKitScanned: False 
+RootKitScanned: False 
+
+MissingProcesses:	
+HiddenProcesses:	
+ModifiedProcess:	
+
+2015-05-27 11:17:18,989 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+
+2015-05-27 11:17:18,989 - MainThread - [INFO ] Vm cmd:vm06
+VmMonitor	RestoreSnapShot
+
+2015-05-27 11:17:18,989 - MainThread - [INFO ] 	Restoreing from snapshot vm06
+2015-05-27 11:17:19,043 - MainThread - [INFO ] 	Shutdownning vm06
+2015-05-27 11:17:20,916 - MainThread - [INFO ] vm06 Shutdowned 
+2015-05-27 11:17:39,433 - MainThread - [INFO ] Result:	
+2015-05-27 11:17:39,433 - MainThread - [INFO ] (True, '', '')
+2015-05-27 11:17:39,434 - MainThread - [INFO ] sleep 160
+2015-05-27 11:20:19,534 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 11:20:19,624 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 11:20:47,956 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 11:20:47,956 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 11:20:47,956 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 11:20:48,634 - MainThread - [INFO ] Vm checked status:vm06
 Vm state:	running
 System call hooked: False 
 RootKitScanned: False 
@@ -191,19 +216,19 @@ MissingProcesses:
 HiddenProcesses:	
 ModifiedProcess:	
 
-2015-04-08 09:21:35,799 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+2015-05-27 11:20:48,634 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 1	 Restart VM num: 0	Processed restarted:
 
-2015-04-08 09:21:35,800 - MainThread - [INFO ] Vm cmd:vm06
+2015-05-27 11:20:48,635 - MainThread - [INFO ] Vm cmd:vm06
 No actions need
 
-2015-04-08 09:21:35,800 - MainThread - [INFO ] 	No actions need
-2015-04-08 09:21:35,800 - MainThread - [INFO ] sleep 160
-2015-04-08 09:24:15,832 - MainThread - [INFO ] Checking VM: vm06
-2015-04-08 09:24:15,900 - MainThread - [INFO ] Caculate the vm data from vm06
-2015-04-08 09:24:52,635 - MainThread - [INFO ] 	 Checking VM missing Processes
-2015-04-08 09:24:52,636 - MainThread - [INFO ] 	 Checking VM Modified Processes
-2015-04-08 09:24:52,636 - MainThread - [INFO ] 	 Checking System call
-2015-04-08 09:24:53,165 - MainThread - [INFO ] Vm checked status:vm06
+2015-05-27 11:20:48,635 - MainThread - [INFO ] 	No actions need
+2015-05-27 11:20:48,635 - MainThread - [INFO ] sleep 160
+2015-05-27 11:23:28,734 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 11:23:28,793 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 11:23:56,913 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 11:23:56,913 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 11:23:56,913 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 11:23:57,403 - MainThread - [INFO ] Vm checked status:vm06
 Vm state:	running
 System call hooked: False 
 RootKitScanned: False 
@@ -213,34 +238,76 @@ MissingProcesses:
 HiddenProcesses:	
 ModifiedProcess:	
 
-2015-04-08 09:24:53,165 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+2015-05-27 11:23:57,403 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
 
-2015-04-08 09:24:53,166 - MainThread - [INFO ] Vm cmd:vm06
+2015-05-27 11:23:57,403 - MainThread - [INFO ] Vm cmd:vm06
 No actions need
 
-2015-04-08 09:24:53,166 - MainThread - [INFO ] 	No actions need
-2015-04-08 09:24:53,166 - MainThread - [INFO ] sleep 160
-2015-04-08 09:27:33,214 - MainThread - [INFO ] Checking VM: vm06
-2015-04-08 09:27:33,316 - MainThread - [INFO ] Caculate the vm data from vm06
-2015-04-08 09:28:23,368 - MainThread - [INFO ] 	 Checking VM missing Processes
-2015-04-08 09:28:23,369 - MainThread - [INFO ] 	 Checking VM Modified Processes
-2015-04-08 09:28:23,369 - MainThread - [INFO ] 	 Checking System call
-2015-04-08 09:28:23,891 - MainThread - [INFO ] Vm checked status:vm06
+2015-05-27 11:23:57,403 - MainThread - [INFO ] 	No actions need
+2015-05-27 11:23:57,404 - MainThread - [INFO ] sleep 160
+2015-05-27 11:26:37,503 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 11:26:37,558 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 11:27:05,345 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 11:27:05,346 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 11:27:05,346 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 11:27:06,010 - MainThread - [INFO ] Vm checked status:vm06
 Vm state:	running
 System call hooked: False 
 RootKitScanned: False 
 RootKitScanned: False 
 
-MissingProcesses:	csdtest	
+MissingProcesses:	
 HiddenProcesses:	
 ModifiedProcess:	
 
-2015-04-08 09:28:23,891 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+2015-05-27 11:27:06,011 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
 
-2015-04-08 09:28:23,892 - MainThread - [INFO ] {u'csdtest': [u'restartP', u'/csd/csdtest.sh', u'', '0A42AD7E8419635CFA094CA665F2F992'], u'jinfang': [u'restartP', u'/soft/b.sh', u'', 'NULL']}
-2015-04-08 09:28:23,892 - MainThread - [INFO ] [u'csdtest']
-2015-04-08 09:28:23,892 - MainThread - [INFO ] csdtest is stopped, need [restartP]
-2015-04-08 09:28:23,893 - MainThread - [INFO ] Vm cmd:vm06
-VmMonitor	Executeing Cmd:	/csd/csdtest.sh	
+2015-05-27 11:27:06,011 - MainThread - [INFO ] Vm cmd:vm06
+No actions need
 
-2015-04-08 09:28:23,894 - MainThread - [INFO ] sleep 160
+2015-05-27 11:27:06,011 - MainThread - [INFO ] 	No actions need
+2015-05-27 11:27:06,011 - MainThread - [INFO ] sleep 160
+2015-05-27 11:29:46,111 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 11:29:46,160 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 11:30:14,572 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 11:30:14,572 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 11:30:14,572 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 11:30:15,173 - MainThread - [INFO ] Vm checked status:vm06
+Vm state:	running
+System call hooked: False 
+RootKitScanned: False 
+RootKitScanned: False 
+
+MissingProcesses:	
+HiddenProcesses:	
+ModifiedProcess:	
+
+2015-05-27 11:30:15,173 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+
+2015-05-27 11:30:15,173 - MainThread - [INFO ] Vm cmd:vm06
+No actions need
+
+2015-05-27 11:30:15,173 - MainThread - [INFO ] 	No actions need
+2015-05-27 11:30:15,174 - MainThread - [INFO ] sleep 160
+2015-05-27 11:32:55,273 - MainThread - [INFO ] Checking VM: vm06
+2015-05-27 11:32:55,330 - MainThread - [INFO ] Caculate the vm data from vm06
+2015-05-27 11:33:24,148 - MainThread - [INFO ] 	 Checking VM missing Processes
+2015-05-27 11:33:24,149 - MainThread - [INFO ] 	 Checking VM Modified Processes
+2015-05-27 11:33:24,149 - MainThread - [INFO ] 	 Checking System call
+2015-05-27 11:33:24,665 - MainThread - [INFO ] Vm checked status:vm06
+Vm state:	running
+System call hooked: False 
+RootKitScanned: False 
+RootKitScanned: False 
+
+MissingProcesses:	
+HiddenProcesses:	
+ModifiedProcess:	
+
+2015-05-27 11:33:24,665 - MainThread - [INFO ] vm06 VmCmdHistory:	Restore VM num: 0	 Restart VM num: 0	Processed restarted:
+
+2015-05-27 11:33:24,665 - MainThread - [INFO ] Vm cmd:vm06
+No actions need
+
+2015-05-27 11:33:24,666 - MainThread - [INFO ] 	No actions need
+2015-05-27 11:33:24,666 - MainThread - [INFO ] sleep 160
